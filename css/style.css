@@ -1,0 +1,103 @@
+body{
+    font-family: Verdana, sans-serif;
+    color: navy;
+    background-color: rgb(213, 218, 220);
+}
+
+/* HEADER */
+
+header {
+    width: 100%;
+    background-color: navy;
+    color: whitesmoke;
+    border-radius: 5px;
+}
+
+
+
+.welkomtekst {
+    font-size: 28px;
+    padding: 15px;
+}
+
+/* PAGINA INHOUD */
+
+/* Cursussen beschrijving */
+
+
+#tabs{
+    border-radius: 8px;
+}
+
+/* Inschrijfformulier */
+
+fieldset {
+    border: 0;
+  }
+
+  label {
+    display: block;
+    margin: 30px 0 0 0;
+  }
+
+  .overflow {
+    height: 200px;
+  }
+
+  .inputarea {
+   padding: 10px;
+   border-radius: 4px;
+   width: 400px;
+   border: lightgray;
+   margin-top: 4px;
+   font-family: Verdana, sans-serif;
+   font-size: 16px;
+  }
+
+  .inputarea2{
+    padding: 10px;
+   border-radius: 4px;
+   width: 400px;
+   border: lightgray;
+   margin-top: 4px;
+   font-family: verdana, sans-serif;
+   color: navy;
+   font-family: Verdana, sans-serif;
+   font-size: 16px;
+  }
+
+  #verzend{
+    width: 400px;
+    background-color:navy;
+    color: whitesmoke;
+    padding: 8px;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-radius: 8px;
+    font-family: Verdana, sans-serif;
+    font-size: 22px;
+ 
+  }
+
+  #verzend:hover{
+    text-decoration: underline;
+    font-size: larger;
+    background-color: blueviolet;
+  }
+
+/* FOOTER */
+
+footer{
+    width: 100%;
+    background-color: navy;
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 5px;
+
+}
+ 
+.footertekst{
+    padding: 15px;
+    font-size: 16px;
+}
